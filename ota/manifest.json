@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.6",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.6/duoday-bundle-2.0.2.6.zip",
-    "sha256": "48e53a43416427dc20bc6f6b1cc3f0e597c629bd1efc22589f53f671f088a8af",
-    "signature": "ILoeTNJwqWCJvFzhvrkUlwxeCfFIb95/wcsb/YO2A7wDaUb0oH1zGFVXHNkxLgpeSxc8ecvanBDPdbMG0gr/TAF7P6TgcXoL6yqBs4PHCDoEg/3Bfy2rnTkqRCsYy3Lp6vpCO1MkRg3zW2uwvw6PrW0QIKk21Q8EeSByy/a74B9Po2kcWA56gquN7U3T/HFzB1f7biucCJWCivt9cR9s7v1yXOMHg2eKXNEnuW2y6t8u8DB0tmk86unSK4UeL5czqamWel9vViNyQt9ANCat+wewTq2+o6orQVtiyB6w1Cg9M+EeXZXwukJCu+n1KDxlcc5xQK4D65x+rzXV11naIuoReyb6eNYW7GegyJuHk+EHDfcGCUiOOuskmf86a/gJ4qVadAlW+j+kTRFkgc6YpPtD4r45C02KM9ocqWe+a8wQinN3mx3/59rWY5ClGclCRqAJ15KbfD9vd2n/Sp+nzvQG6/6od4IlI7SBcGPy8DSnEu+tmzvclJxsdf7TNz8e",
+    "version": "2.0.2.7",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.7/duoday-bundle-2.0.2.7.zip",
+    "sha256": "2e8c882f29222262538c7a80ea628a3bb043b8ceef8133bf225f16737ef4c9c2",
+    "signature": "beH8kCkNwh0weqQQtANVnMK+uCawJu+sShmbWH56u/6zPW1xl/r41EBAO8Ktqk/HNTpielwQTcqJtIDF0V1NDETb8bzKXqtH2VYsIRp0SK/ziVQec4wOiVczRS+9ScuhbsePwk7LX5uHocrkm/kZkw2KqQbR85+kdqeb8INo4J1SY9E1m4GxAfToSpNCprCU6IUL0zjuAQpgtCNajtGCDJN0EZFBCVxxoQXjNgyBJVHcL45gZIJnRRNZDDFHkMNns0S5k6/e9TVWq2p3wWowG7RVN8mx9WvnmRC0eM3AM91XvaK6XJhmm9lUxJIkdbtB7YHiYKJPUyxfVHbj41AUJ4o2kZeVRCs4l7LCrv6wZCzB+twlworewf7iIAASHHQh6GgWNNwQVjb7X3KhAN/OH3Hqtq9rkxpIE1qkp62+ikQ+MqHcY9B9CGMG5ZiJAxGTnGlsQge+5YsNie9DOr2fLvdshb6hj1/Dd85QPQBe/0tunCD+a+qPoCN+VWH27F2v",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Pull down to refresh, with a smooth animation\n- Late-night greeting",
+    "notes": "- Pull to refresh uses the DuoDay intro animation",
     "publishedAt": "2026-09-30"
   }
 }
