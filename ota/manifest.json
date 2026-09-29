@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.0",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.0/duoday-bundle-2.0.2.0.zip",
-    "sha256": "7a1f14d7024d8233663725ca3758644aa1176062b513024dbdc0f68323afb9e7",
-    "signature": "frsi3kpCHIoQOh8tY+o7ItyeSkkAPbK70Cd4sd2sf2k4JAGqXcOLBkF3as2a9aXaJdnZYonOLfpu478E79shBMcF4uf7MUSVwn5jiXJu/7YOgC/bF+r2ScGxa/cpF4CtJQ3XENxY9lrKXhwqE2NLqdA7Qc2OJpI8w6AQQdG99VATry5TCMV3BYivQF8p7TOvXnX1MHbUYHc04PX2S9hqttDlx3srSf2vV7ZwtG7mhy3g1HIMitlAtHaR2MQyw8vWIqyGH5CIFo6ukvel12yq1rlDuO8og8rqBAXsqDSTWLA1rQFkyukJbUv9EyxkgoUDStSWFf6ttcVwcBjB/iQYYbGk1N3gHKRZRd7G4BYDoqXXHGnsBFx5WsE75xynUIUKP2SUHQupEimx/pPJXBp7Km/8KfY9F/DPIYlKSE1GARx5qxQuXP8Vzv2lGOvtNHCsb8GU2iz1SVKHSv9mPVIiVMuDrOhgD4x4rsLrfX8NvL3ZUwvSjuEb/y5gJwLsfVdg",
+    "version": "2.0.2.1",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.1/duoday-bundle-2.0.2.1.zip",
+    "sha256": "8327a041e7cd3598418ab5d39d498fb6818aa2ae835a277c9c0a001a8fc47437",
+    "signature": "neYyy1paVrnv7hH87jfOGTah9Ey2DGDMt57km/enzXrEW4vzz0xAnPz5TYPO1Onkpi9+WS9Yv+d8TizMRbn8rEpgguhEU3mNyBm5cswbeCOsAJplz0Nkk6rpPCavZcjiMzb6i3kLXdN/eNmBnajciBNaPJNRDoYnheOS1TXxEGlINF51WfjHjCV3nBIU/3ieTCnZzouECWUl+ngfMskBnN5weXAPPxuaQ3IUUCr+HehKCGXOY93l75NvXHTF5+k15oxDcoLVhqWCjWdZBoLkSTLPJIbLgYGVv9+TqfMn9+HBjXL6WafrLZb5eUg1NaQeQLlE7/bkYDsRk7eTqVnQxI9mEXYTWagOSOsbOqE2ranjIEKtQVfj2aF6c9WQ/EOpvXDm8Xdcamk5GHb4XivhykcahYiXU7Y/1YbIg2UnS0fAm3eSlc3Wa/z/neAxkcsLcPe6z9s3Y2Sp1nVAZObkIXLHKNEh9Qdc9CLj5dahvjTm4nFw0RktDciaP9eC2Xgp",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- The new DuoDay: Today, Chat, Life and Us\n- Premium animations and many fixes",
+    "notes": "- Floating tab bar and a pinned top bar on Today",
     "publishedAt": "2026-09-30"
   }
 }
