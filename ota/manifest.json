@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "latest": {
+    "version": "2.0.0.1",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.0.1/duoday-bundle-2.0.0.1.zip",
+    "sha256": "99cc6ab20a27e73d96fb0f716cb36d019e2c7ccfd665251ad89225010a19edf1",
+    "signature": "WnjJxMcXS65ZZnkPrOnF1Go9J1OvnAbuLojup9wpkNNN0j3q470G0jyCXYfdHKoZgXTYquG59ef6vpf9bgPZH+1SGNDR8jcVIShhFL8dmMcVCDQM2Qiq6qBuUBTtp68jQMypuvrSyOOMfEe2t/FiMv1UT/MUC4bDIFUXfqT2yoTgDPtDBD/O4cpM/MWe1sHheHvehYfHQWhOf5g1LgRiDLwHupue66ul0ZzLBc6h4DwMmxX12fhFk5CX2CwZYTR+94CHJiTBEuvyGBDodDgTBM0zNj6wQEsbhSj7wyXekRzDZBSvRzwNmgwIKykke7LNIv1pwxVXx3LbHWB3qB3xL9sKp2OXCrTCw8WNo5GtpNej1gJ8GV08aHa1xGDffqGp+KU8D3cOs9ByPLOcsfCDX7TbqsghZhku8oF7YdyHq4ImaY0wp6EmcbxTUV5S8DfwwDpDVhOqWYXolFtuAxXOv54nT5AGxCnjDRE5ePYf9deUi9Oif/efgXXecgIvWQgq",
+    "minNativeBuild": {
+      "android": 10,
+      "ios": 10
+    },
+    "notes": "- Checks for the new app version right away",
+    "publishedAt": "2026-09-29"
+  }
+}
