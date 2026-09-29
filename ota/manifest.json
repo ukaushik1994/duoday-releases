@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.9",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.9/duoday-bundle-2.0.2.9.zip",
-    "sha256": "2da438e0ab6202c4d8dcc0ae40ebc08ba5a8c2c380282eef36106fb91aa8efb4",
-    "signature": "uWlVcgvFD0QhyOsPZJi2wQCgQe95SYlDwy+0is9knhZnZ+Geelqg9WR2dSCVE8CmKWwWwoMVhAsUgUIhl8n1wQMqBKLmmZsMhGgz6ODyofZN5nQcb5jIoKQkTGHuJA9iJXnTZR2VOtU6nMcU1LtapFoR16QlKki8h4+q2wY58g6bcynoecxijM7TLPnIBQLFEKr0rcZ8CJ2YJ6xiir8KKJpCVIZFpIGEQq5Wh3SLP1iduTUqU1gmQhNHopR9RRLMrVmAFYkXkPDawFeP1/N1+qd2R3efJgT7PrtfO61xcuO19F3hUucizCiFsbTX7OFihU3AeOzfhP7l5npLDFrWCOdVjkhRbST3D1YTVDEVHw4HPoGLt3wrAhz3VOfLfHiCzA6DpY0/wGwgmMtVB5CqaJU8guESC+LUE6a/X2Wbm6XaKPmri5n95OkHxvcyzfXaaRykNtolZyuxwbUsebWitNDz2jENGN3Zh8GFgeFwU1JWNT6mRqVjU3IyiPLNMFZ4",
+    "version": "2.0.2.10",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.10/duoday-bundle-2.0.2.10.zip",
+    "sha256": "ee505b81cac5b3de9e8493f0dae2a51ee8e757e83992b4229536aadc3670ce18",
+    "signature": "OIOBsyedNjuIGO8aKgO/tVRMK5Oo4PwuCcJduRwwnI/INq8+hfZz33997Uvrx8lwKoAOJ6Lpa+7EmxLnd3TJOJaDj15ppbNrPUOwC2QPLMii0yolgLQoWrLnl7Y2EfscjJoeQtT8lphxDuJ5jd4/soc6onBDY10DoeklbzdKjT7lX35r3kl8trOtXGjv+s3DoLWiPvbiw9sGArD1/n9Iq/V/CXMf0clZsQagLEeE58ZrC8V7hQAPnfIZDvW+C9IWcc+l4Sal5GHNc4CcebXvsXFUyn5+7f1jD+TN+0w0VbGreO/7djmO9hupdWQbrhgxJm14HyNUhX+hqqz5+kQ2XZ0IL0w86T6gVm4C6+Ni62LnOs/Qy+CG4QKNN7MiRgq7UEbgGIPQ0LMnFnJlYr9R/c7zaayrdI942VF72rjTOO44WTOQEAr9TUC1pcN2FX6vdX5Frgxd/oCAuJDGtHRFwUUO/pLJQEo4fJ6BROB8kusvkcOUgTkt+hbmfJSnIaAt",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Home yet? reminder when you are past the time you gave",
+    "notes": "- Today's question matches the question screen",
     "publishedAt": "2026-09-30"
   }
 }
