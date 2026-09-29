@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.8",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.8/duoday-bundle-2.0.2.8.zip",
-    "sha256": "91bcc0a563b718ed16868f16123425a4358d6844c8c0628ffa3bd0b0a2dd966c",
-    "signature": "nTCAAMbjCwLmi3tOpagsUGh1BXUvWS0WuV35ATuNiVwRIy8qR5ZC3xrsFKm1PNuez/e3TMXfN+cse9bZJN0W8Fys3KMmDGiiWRKnwFHyxvNt5MFdWA4NScobEAaaOhEb3ZsVhtFcLBVW6kc0VEiqXBCn+A5jheJiPC5PdZheE9pzhN2kMAIKG8hMQH86P/e1mFREiBub0BBQkaKxUs85KlYyQtwH0RDAJWoOImj7OL6YV+13GVNk40FJfRr/9ok3GE0ufT+vetpV7Kwfk0q3TTHWXstryk9DmbAPX2F2rYdD4fAgcBrTLU2YwMj9bFX5ymOTyru2qWZWwI8Ag4WuIovWUOXLRNCkoru0HGw8pAqGnut2sBkazko15L/Mp4ZgFHAUyOzWQ8sKOuwXQvRKMZiacid/6HUl8t6JQzxoptu0TQScc/VOxw9Kh8FzEiCjaC3WzN1JziktcC7YKdMX/L37o22rLr1r8aTFtyQcUc3RJWWCB4P/okX3njCaBjaQ",
+    "version": "2.0.2.9",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.9/duoday-bundle-2.0.2.9.zip",
+    "sha256": "2da438e0ab6202c4d8dcc0ae40ebc08ba5a8c2c380282eef36106fb91aa8efb4",
+    "signature": "uWlVcgvFD0QhyOsPZJi2wQCgQe95SYlDwy+0is9knhZnZ+Geelqg9WR2dSCVE8CmKWwWwoMVhAsUgUIhl8n1wQMqBKLmmZsMhGgz6ODyofZN5nQcb5jIoKQkTGHuJA9iJXnTZR2VOtU6nMcU1LtapFoR16QlKki8h4+q2wY58g6bcynoecxijM7TLPnIBQLFEKr0rcZ8CJ2YJ6xiir8KKJpCVIZFpIGEQq5Wh3SLP1iduTUqU1gmQhNHopR9RRLMrVmAFYkXkPDawFeP1/N1+qd2R3efJgT7PrtfO61xcuO19F3hUucizCiFsbTX7OFihU3AeOzfhP7l5npLDFrWCOdVjkhRbST3D1YTVDEVHw4HPoGLt3wrAhz3VOfLfHiCzA6DpY0/wGwgmMtVB5CqaJU8guESC+LUE6a/X2Wbm6XaKPmri5n95OkHxvcyzfXaaRykNtolZyuxwbUsebWitNDz2jENGN3Zh8GFgeFwU1JWNT6mRqVjU3IyiPLNMFZ4",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- On my way now says Arriving now or Running late after the time given",
+    "notes": "- Home yet? reminder when you are past the time you gave",
     "publishedAt": "2026-09-30"
   }
 }
