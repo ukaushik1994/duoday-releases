@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.2",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.2/duoday-bundle-2.0.2.2.zip",
-    "sha256": "da75914b26afa1f36ec6cbc78f09b99daa0a7f605c5ecd19e63c539d584a34ee",
-    "signature": "w9l/EfhqCDnlhloiHyqaxN1+kmPJsUAkB0Bt6yjkuvvsWzzq1sJGE40LfKYF03D1NabTiI9MFMMCg3rThP4TFwIpkJbpg44f7IGpAeVh+sjTld2DX0SNBBOzywUjtZhGrwbxqWOHCKJleQnDUZ8umufHusVVuWLtdynLOoS2qmmGaMukQ/rXtdQuJicwFtfnwafSRDLa7reKqw2dfGIJhfiiIJ8+AVDYi3XVyqQuqp4bK7cWklEP95DRP2F5Yx8AjlvsTCw+zj7hd513+sfVG2Xrc3n3fYwg/+pvRTYDubr5CkhIDTHWtJuMX7tSII6z8AuIqvi1A0sdPPGYQMu2j8bvoyxjYUYQwNQry9K2Q1o4+Ou+Q9VxVB7BvwmADjpc7wRPGfdE9jKDO62Nz1OpDJZcneLJyf9upjr+b7sN6ohB4BmhUTndCwQ/RHPwEk1CcZvSOvnpeMGU9u12BSzQjKYaSQFLvQbxy/7y3w12Gps5PNXfFjFIq+Uj08frMSEL",
+    "version": "2.0.2.3",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.3/duoday-bundle-2.0.2.3.zip",
+    "sha256": "238c4825e850eeafc91289b33484116295741f2b3a0021c006a702172d0ee615",
+    "signature": "hFn31declCEK83ji5m4PUO7AU3vu58kc599KLMTBOjexEmueNilHoqsWY33ujYFIms+oMYcDruGG7omUuqsuI+Ty/S3fcwUbwA775ucam04B5PeXLcd3vFDaNLnwqfQS9PoghWM2Xk1LIFFj6uxKjGuKbGxJCvvNzVyK9n2ZEQlk+v+yg8xIXAULwHtoLEMGvWXI2ZeZK02U9BbMCCP6mNsLkWkU5qkT+t7sXBuWRbglHGZrTzA2JnwXmn/+EYGIcUD8+pvZx5R14Aa6/8+Gr7COM3/QxqiljK6N4iXXOaKh/tTP6XMbBltdzfOTUSS86XYvIOmAkQOQw/aAH/RjZEgS1hGTPyAOY0bsi1V6f1sw7mxzCaSQ2jeUxnuuY2VWdnc4iVxR0Ui8lDp9UDAHDfdJXj7TD1SoOvSnzplAFq9c33T6loynnE4Kt0KtA3cU4uB+qbPw5jHUTagN+Evw5bDyH2lepSefg8w47EBQ4je5271C/mgsZ5EElY0iqd1/",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Chat is full screen with a back button\n- Cleaner tab bar",
+    "notes": "- Polished login, onboarding, empty and error screens\n- Pull to refresh on more screens, clearer wording",
     "publishedAt": "2026-09-30"
   }
 }
