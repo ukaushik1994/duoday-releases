@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.3",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.3/duoday-bundle-2.0.2.3.zip",
-    "sha256": "238c4825e850eeafc91289b33484116295741f2b3a0021c006a702172d0ee615",
-    "signature": "hFn31declCEK83ji5m4PUO7AU3vu58kc599KLMTBOjexEmueNilHoqsWY33ujYFIms+oMYcDruGG7omUuqsuI+Ty/S3fcwUbwA775ucam04B5PeXLcd3vFDaNLnwqfQS9PoghWM2Xk1LIFFj6uxKjGuKbGxJCvvNzVyK9n2ZEQlk+v+yg8xIXAULwHtoLEMGvWXI2ZeZK02U9BbMCCP6mNsLkWkU5qkT+t7sXBuWRbglHGZrTzA2JnwXmn/+EYGIcUD8+pvZx5R14Aa6/8+Gr7COM3/QxqiljK6N4iXXOaKh/tTP6XMbBltdzfOTUSS86XYvIOmAkQOQw/aAH/RjZEgS1hGTPyAOY0bsi1V6f1sw7mxzCaSQ2jeUxnuuY2VWdnc4iVxR0Ui8lDp9UDAHDfdJXj7TD1SoOvSnzplAFq9c33T6loynnE4Kt0KtA3cU4uB+qbPw5jHUTagN+Evw5bDyH2lepSefg8w47EBQ4je5271C/mgsZ5EElY0iqd1/",
+    "version": "2.0.2.4",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.4/duoday-bundle-2.0.2.4.zip",
+    "sha256": "ed6a3d22919e540fe5461d6c837a15be063826577bfeba2546331e564842a698",
+    "signature": "lrjHr+mBJIpibYtlAYMaoRr0HjgLQGZOSVa8GNR8KgoFVs0DDH9ajPCADp+rmIQDLRdD3ZnNIt8FlCpYKqda4Ap3nljmsmNpeUjlzgC40+EHSq0leq3QTxcZkiyjciUa/rkRIdcOJ9/LU640d/cxTgj0hqvOnMvRkmlts3LkkE36kW8WHWD5cG6pb4s9TolvYSzkbT4mObcqaJ6qJKcs3lVUL1mVVm4MOj+vj++oScE0lCm9QMX9rv3Zfzg2siEYlQDP13HUD294+clDChNHcXgF994m+sVN/FoQnxNCFGxfIOdX/6FC/PPVgENCQ8BIWsjHH8GfGnqzBh+H1y+FW60lUIeIzAJ88zqXWrFCij98zdUiJzH+26nx4ImV2eoA6qKzhE9TD4epN/rwskT0++2OUoitcWI6KBc47uI+IaCbSS4LNzzg2CP4Ki20A1/zFm8ObJsFwFccpiM6haMLaDhapLoWeGbHJhGuotGe3PLFhWGitamzwZfr28ewfGve",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Polished login, onboarding, empty and error screens\n- Pull to refresh on more screens, clearer wording",
+    "notes": "- About twice as fast to open\n- Today appears instantly when you come back",
     "publishedAt": "2026-09-30"
   }
 }
