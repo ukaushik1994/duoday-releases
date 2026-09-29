@@ -1,0 +1,18 @@
+{
+  "android": {
+    "latestVersionCode": 13,
+    "latestVersionName": "2.0.3",
+    "minSupportedVersionCode": 1,
+    "apkUrl": "https://github.com/ukaushik1994/duoday-releases/releases/download/v2.0.3/DuoDay-2.0.3.apk",
+    "releaseNotes": "- The app now flows behind the clock and battery bar for a cleaner, premium look\n- Home yet? reminder when you are past the time you gave\n- Today's question always matches the question screen\n- Faster, with pull to refresh and many polish fixes",
+    "publishedAt": "2026-09-30"
+  },
+  "ios": {
+    "latestVersionCode": null,
+    "latestVersionName": null,
+    "minSupportedVersionCode": null,
+    "storeUrl": "",
+    "releaseNotes": "",
+    "publishedAt": null
+  }
+}
