@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.10",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.10/duoday-bundle-2.0.2.10.zip",
-    "sha256": "ee505b81cac5b3de9e8493f0dae2a51ee8e757e83992b4229536aadc3670ce18",
-    "signature": "OIOBsyedNjuIGO8aKgO/tVRMK5Oo4PwuCcJduRwwnI/INq8+hfZz33997Uvrx8lwKoAOJ6Lpa+7EmxLnd3TJOJaDj15ppbNrPUOwC2QPLMii0yolgLQoWrLnl7Y2EfscjJoeQtT8lphxDuJ5jd4/soc6onBDY10DoeklbzdKjT7lX35r3kl8trOtXGjv+s3DoLWiPvbiw9sGArD1/n9Iq/V/CXMf0clZsQagLEeE58ZrC8V7hQAPnfIZDvW+C9IWcc+l4Sal5GHNc4CcebXvsXFUyn5+7f1jD+TN+0w0VbGreO/7djmO9hupdWQbrhgxJm14HyNUhX+hqqz5+kQ2XZ0IL0w86T6gVm4C6+Ni62LnOs/Qy+CG4QKNN7MiRgq7UEbgGIPQ0LMnFnJlYr9R/c7zaayrdI942VF72rjTOO44WTOQEAr9TUC1pcN2FX6vdX5Frgxd/oCAuJDGtHRFwUUO/pLJQEo4fJ6BROB8kusvkcOUgTkt+hbmfJSnIaAt",
+    "version": "2.0.2.11",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.11/duoday-bundle-2.0.2.11.zip",
+    "sha256": "0b017733860f85c5d77f5cb17c18d4c3e6f5b9a96d4ad4415651d3e2242381e3",
+    "signature": "FhzEwyAD+NHikA74w+C2w6f+YQDc3z4qj2xb7dr/NmlBoTBGxv7zgxMg1iQ8pndnkjq784ZlY+VZMiNjpKc5MESOOE1QAceXkEhavJBB+wM3fJd8Itja0NUAFgTYonXGs0Ar+i5EVfdBJZ6OI6oW/5d5WzT9AQqGb6pwPAWblkHSKBNYDwifsy5BlHKlB2Iv/Ko2uCH7iVU44lGrqbxRH0OQy34CKFGLpo637r3IjPKX4p/DVFwYhSn1hqFkxG7qUOqH9SqwB3+nct4EtSR18vaKOBN8ErVczNbctDXzg0lffCmZ+R0zOKHvc+sLgyS3sh9PBsS6b2fZnauihtM1EZs2RZShFJmL+g8Gv4PznTNurgzg9bqh10KfCrFma0PkTVt+QQLFQ6lo9AczR44st0h6b0t/SoWQOjlmJq29XwNZT+bYQzcxJOVw08U+7Nbep/8cePSBnNvhHs1/W7+Wp4PsgAYxXi1omK5M5zEw5WvTkGTgXYVIQk6UWOhxy0R1",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
