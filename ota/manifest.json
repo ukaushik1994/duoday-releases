@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.3.1",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.1/duoday-bundle-2.0.3.1.zip",
-    "sha256": "f5f43f049863013dd2e2de02fed2828b84c8c52b6de97ac18e08938f904ea5d9",
-    "signature": "XqNxwpRVBZA0RQkfbS57pNpNujSJ8y2c7kiNK22bu6BQwct2AgwlIEagWB68ZioF05pwR606nhUuROX4XWKNX0LO4z7xZDyku0c+dMOkBlYR3eRlyQAURrtwLqLsZkEvtPOPhLUmfQaG+XmI6qdy/NcuJjCP1NfHbEwt+Wl2G0EJpHOwWFQvf69rgiVd4LZDC+w8uRV4TU05pHkip2b+Ueei8TxXZvd+5zy/sGcEYSRXi5FwO0Wu1un9n9I0uk+Jz4K5tiDI8Y0I8n27PEcNpGUgM50nkuMdoI8B/+mc0acMmspQurHHSoKHmq9QSn40jr8FURz/RuLM1Ykt3S0+GSaHnswZwVF9aQxLivBkW22CRuUHoADPGZUhbsbtJszENwVio1rPcfCsCj4o3TI/saaUHvm0vvPQW+tFXaizXNnKd7CU3qNGYTxAUb1/Sekz5aew3XkGpzO73GyrTI2mSocmS+wkQZZ6kUFAo+zz6tRLSjmfaJnas6OovVNY8i6R",
+    "version": "2.0.3.2",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.2/duoday-bundle-2.0.3.2.zip",
+    "sha256": "5070d63b3acd43d60a3dbff36c8ea02d3d2db22577b2a080c629648939901b11",
+    "signature": "tvTZ/JOZ8arKCdNfAmAPCofD8ScnrOl84uk9KxYZ6Vr9kb2gNur4CCT1OOtT8AXRNkKGHd/0LfrF1xj4LGGwjHbrbkw9rCn5V1z+LQrbbc3l5UEkoImUvIGwtBRRD1oU546qqU0igmKSTPzkGwY/yTOWlMIdsR/kEUiDgIhyoT6aATTx26xuRlb2VZgJoLzOevvTPhacIXHbBw0lT5cucKmP4iJ915sWUKP/Ly5R9mdP68QMA6ONConNFmtV/5bDazSZrz/t7gY6DUMf8TGh0xs/3Z/LaLAyAfesAeTOpvpQ0vWQjRAAxMnMOunE8bzDQe+N18lVPoNFpVzbIkq1SH3ZlS7RDvxflSucM5k+TaE2sgaW31J0/IggZtZDVYvWh1Cco1i+4nBt/e/lq/NdahtD+BPVgWGxHPJlurmzIFHCBDFKuNnFH8eYRIXhUYkd1qB4KkfGjhUAgSbylz1Z53qALHR+Z03PirK99f7GealSroSEH4k1j4b2i0cScX8z",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Premium pass: smoother animations, one consistent design, many fixes",
+    "notes": "- Final polish: steadier controls, smoother chat, new Life icon",
     "publishedAt": "2026-09-30"
   }
 }
