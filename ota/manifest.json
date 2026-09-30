@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.2.12",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.2.12/duoday-bundle-2.0.2.12.zip",
-    "sha256": "7b7ed023876fffdff2aae2d7dad8b0d09b1da1fef5ee46ba1f7c1d835d3fea40",
-    "signature": "ilnd0a24oWdmi/pV7c6kZlmjb9wJdl655ND2x28B6GaawUiioSkFDbLdy/tQfNibu6I8UNKN7mN/gRwtDrGMZVVJ77vcJ5i3GShQVWfkiZoFYINcxyMq+lIn6dwe9Zu6u+ayBLoAlQyhwaLRA2FE2B05jtkfFWsseinnYSOlmngBFGeb0RtABmZZHCHgZGLBmC22hebK/UHqewotaLWFS9FwqYGgQ4mf+jMEIKoXPDAB+MRfGNZHktT8hH9LegxjTn/ex58ltQMfNC+weHhhvSCxVL4QWNQw4Fx35AeJqOHGyLaIY4ZOo0z43Zv+elkgttOHadPp+08QIb0AFWqz9QMI8y9Sdryxz8T99VYFkHiAZ8+2ZLniFwMitIZccUkMFUmftStVobM0cPCxHre9S4uNj0hAW4P1ATsP5EaKR9r3FthBosjPoTOh0K2+b6x3k64yJlFMD99N+2hmvrWAWW0Jmd2cgcoiG5NyP0UoHm8K65/H6pHXjS5miAa8G30S",
+    "version": "2.0.3.1",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.1/duoday-bundle-2.0.3.1.zip",
+    "sha256": "f5f43f049863013dd2e2de02fed2828b84c8c52b6de97ac18e08938f904ea5d9",
+    "signature": "XqNxwpRVBZA0RQkfbS57pNpNujSJ8y2c7kiNK22bu6BQwct2AgwlIEagWB68ZioF05pwR606nhUuROX4XWKNX0LO4z7xZDyku0c+dMOkBlYR3eRlyQAURrtwLqLsZkEvtPOPhLUmfQaG+XmI6qdy/NcuJjCP1NfHbEwt+Wl2G0EJpHOwWFQvf69rgiVd4LZDC+w8uRV4TU05pHkip2b+Ueei8TxXZvd+5zy/sGcEYSRXi5FwO0Wu1un9n9I0uk+Jz4K5tiDI8Y0I8n27PEcNpGUgM50nkuMdoI8B/+mc0acMmspQurHHSoKHmq9QSn40jr8FURz/RuLM1Ykt3S0+GSaHnswZwVF9aQxLivBkW22CRuUHoADPGZUhbsbtJszENwVio1rPcfCsCj4o3TI/saaUHvm0vvPQW+tFXaizXNnKd7CU3qNGYTxAUb1/Sekz5aew3XkGpzO73GyrTI2mSocmS+wkQZZ6kUFAo+zz6tRLSjmfaJnas6OovVNY8i6R",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Update notices arrive reliably",
+    "notes": "- Premium pass: smoother animations, one consistent design, many fixes",
     "publishedAt": "2026-09-30"
   }
 }
