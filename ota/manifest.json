@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.3.2",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.2/duoday-bundle-2.0.3.2.zip",
-    "sha256": "5070d63b3acd43d60a3dbff36c8ea02d3d2db22577b2a080c629648939901b11",
-    "signature": "tvTZ/JOZ8arKCdNfAmAPCofD8ScnrOl84uk9KxYZ6Vr9kb2gNur4CCT1OOtT8AXRNkKGHd/0LfrF1xj4LGGwjHbrbkw9rCn5V1z+LQrbbc3l5UEkoImUvIGwtBRRD1oU546qqU0igmKSTPzkGwY/yTOWlMIdsR/kEUiDgIhyoT6aATTx26xuRlb2VZgJoLzOevvTPhacIXHbBw0lT5cucKmP4iJ915sWUKP/Ly5R9mdP68QMA6ONConNFmtV/5bDazSZrz/t7gY6DUMf8TGh0xs/3Z/LaLAyAfesAeTOpvpQ0vWQjRAAxMnMOunE8bzDQe+N18lVPoNFpVzbIkq1SH3ZlS7RDvxflSucM5k+TaE2sgaW31J0/IggZtZDVYvWh1Cco1i+4nBt/e/lq/NdahtD+BPVgWGxHPJlurmzIFHCBDFKuNnFH8eYRIXhUYkd1qB4KkfGjhUAgSbylz1Z53qALHR+Z03PirK99f7GealSroSEH4k1j4b2i0cScX8z",
+    "version": "2.0.3.4",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.4/duoday-bundle-2.0.3.4.zip",
+    "sha256": "2b276364e045c264813d702e3fd0e47674a8264d2646877f99abced438c4deef",
+    "signature": "0eQjDFk6OIOGgWQuIVPVQ/Ah07jJptgG+j2Ta1bkIRWMFIVQ7HituVD3/92DeOy2yt8WNdE3DkncrZ1c6Du86QVD+clDMwn0MtO3JX5gwkFD4r6dy7pVEvwZH0e+fK2alwuCDqCId7lyLwmdyLltdB2j8Ttcwz8bXIDhyKhaUb6HSKLqASPMLYHroOl9nj8E7vn6IUazdVRpbcrheLOTp547txN7DEJhgKPAK4HzmOjGX11AfIsXdpe0sHTIzd+4MzYYJgwIQqajXbqmb+gJlGVztZiBwjnoyL1T8KFWxv8vvkJblrcBj2MZSK3hu5d8sFGFTwvsFVHPqcIpUYqiXaa1JJdNeCcfynn9lHWoaWVfPWD7IlI97IcQZf7I6BmzAjPDbJmvrmRaSPsUEAu/jbxwXYQ9me469UqkcVxMPZe+dsHdfioeCiJ3/NKeoqvJr1g0DuKoS4p/IxNADM8mUhsW0Loi95Z3sWwUJg66406C+a3Z+WDCwTRLYHxWCio1",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Final polish: steadier controls, smoother chat, new Life icon",
+    "notes": "- Meals: plan the week, who cooks, send ingredients to Groceries\n- Family mode: kids, their activities and pickup reminders (turn on in Sharing and privacy)\n- Tidier, consistent colours across the app\n- Tablet and desktop: two-column Today and roomier layouts",
     "publishedAt": "2026-09-30"
   }
 }
