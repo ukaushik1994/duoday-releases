@@ -1,11 +1,11 @@
 {
   "android": {
-    "latestVersionCode": 13,
-    "latestVersionName": "2.0.3",
+    "latestVersionCode": 14,
+    "latestVersionName": "2.0.4",
     "minSupportedVersionCode": 1,
-    "apkUrl": "https://github.com/ukaushik1994/duoday-releases/releases/download/v2.0.3/DuoDay-2.0.3.apk",
-    "releaseNotes": "- The app now flows behind the clock and battery bar for a cleaner, premium look\n- Home yet? reminder when you are past the time you gave\n- Today's question always matches the question screen\n- Faster, with pull to refresh and many polish fixes",
-    "publishedAt": "2026-09-30"
+    "apkUrl": "https://github.com/ukaushik1994/duoday-releases/releases/download/v2.0.4/DuoDay-2.0.4.apk",
+    "releaseNotes": "- Now called Duoday App, with the short name Duoday under the app icon\n- A 1-minute welcome tour, replay any time from Help\n- Meals, Family mode and a week view\n- Polish across every screen: smoother loading, simpler adding, tap a tick again to undo\n- Wide layouts for tablets",
+    "publishedAt": "2026-10-01"
   },
   "ios": {
     "latestVersionCode": null,
