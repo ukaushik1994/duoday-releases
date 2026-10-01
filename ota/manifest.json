@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.3.5",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.5/duoday-bundle-2.0.3.5.zip",
-    "sha256": "9be045be354ec03edadbc97d1d09e41c6123917921cf15a7aecd5d1d3c977d2b",
-    "signature": "KQATtGuVeiZUEcmrdx937ug1+Sk/1/+lWcLRf57Dj/JLkKZB8CXdB80vkyf6Fa/WOFPHUIndW6K5FxyDs52xK4TcJnYT+p5A1Ugjie4a0hnL9/XURKa0TKLxELNbfDhChex4Ug7khqevIVh+q1JfxH2qtcSTD37fQ6YMhghhWpLgEi4gN1lKOHMULwJJsuKkqIArBj8i5KmSI4QZuVR3Bo6x2j9cCWOXV8VSjx3a9Os/BUaHoXWXZy/WBsny6zUaTWZcEJs+9Y059Q5AVYF33TSlgWJFqkoF/xxFdcCaq3VpDMLysTwmp4+Vj+lMMxszgA1V7G1gq8lrHLmyBjD8aWSzKpN2JRlbi0QIGbGbQEn6ZEUfBspUkI613uycixv4UMqicNqkFn4zftQLIkpUjegmK6GrGQn84t2lJJmEG8zv4fDZC+E6/rgRqVMfh9bQxlGWLvhwVTNUkl4Kesn85SMde6OvOgwgGNz/LtjJGDkqodXSH6Bx3SGY4cCd2Nlf",
+    "version": "2.0.3.6",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.6/duoday-bundle-2.0.3.6.zip",
+    "sha256": "af564ab90e8d9c0c7e9fc0a2078309036a7e3f4bf3512d2a3bd2a014a5d5ca4e",
+    "signature": "O6ping7lR/OwtxNXaNC+n0NaqTuhC0ZjMp1oVa47EBUe/OcSLsLFKH95i6kMcYyqutQ+p3HMjjS4XRzfK+BeBsCWhXYSNWCLnYz00/wghJYq/7JoRuwU+a6KMoSbvH7aDyO3n8SAWO2WT+6xWJfR0jdCkl/bf6txy7nIolq05pT+RKN/HNuQDks2jhGTrMbgt0w0Z2GBuyZwVhsB3w6cTQz85bzRfvDQcZWM6kOEmaEfQntBsjMO33b1kTJ4Qipt8FGXrPuNGHj3/SLQ6O9qUSoDVmp8Z8c1ckXNm5dY9nXGjnxCrYNLtS8/n2Y+eZ0FzOZBg145ZpK9NmaDQ2jRQ9b9AtgxxeB+z7zjg+dfIf3JNpQPfF/L+spzA4Z9F4/xcUctes7PboCmsLeUhme8CHiLyxzP/WSxqPjXrshTfk3Ggqurrw/PfS8yXGXM33nCu9ZyFTJWm/nIBXwNKkNCpyJyqpEZ2zhmPuu8tm1nL1Tpj36PVzPMA0O+HbDOltAo",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- New: a 1-minute welcome tour (replay it any time from Help)\n- Every + option opens the same simple way, with one Save button\n- Smoother lists and a cleaner bottom bar\n- Meals: swipe between weeks; Life shows tonight's dinner\n- Wide layouts for tablets and desktop\n- Fixed a habit icon that showed as text",
+    "notes": "- Polish across every screen: smoother loading, cleaner avatars and charts\n- Today: tap a tick again to undo it\n- Pull down to refresh on more screens\n- Your partner's first name everywhere\n- Tidier tour highlight and shorter, simpler emails",
     "publishedAt": "2026-10-01"
   }
 }
