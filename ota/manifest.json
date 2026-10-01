@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.3.4",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.4/duoday-bundle-2.0.3.4.zip",
-    "sha256": "2b276364e045c264813d702e3fd0e47674a8264d2646877f99abced438c4deef",
-    "signature": "0eQjDFk6OIOGgWQuIVPVQ/Ah07jJptgG+j2Ta1bkIRWMFIVQ7HituVD3/92DeOy2yt8WNdE3DkncrZ1c6Du86QVD+clDMwn0MtO3JX5gwkFD4r6dy7pVEvwZH0e+fK2alwuCDqCId7lyLwmdyLltdB2j8Ttcwz8bXIDhyKhaUb6HSKLqASPMLYHroOl9nj8E7vn6IUazdVRpbcrheLOTp547txN7DEJhgKPAK4HzmOjGX11AfIsXdpe0sHTIzd+4MzYYJgwIQqajXbqmb+gJlGVztZiBwjnoyL1T8KFWxv8vvkJblrcBj2MZSK3hu5d8sFGFTwvsFVHPqcIpUYqiXaa1JJdNeCcfynn9lHWoaWVfPWD7IlI97IcQZf7I6BmzAjPDbJmvrmRaSPsUEAu/jbxwXYQ9me469UqkcVxMPZe+dsHdfioeCiJ3/NKeoqvJr1g0DuKoS4p/IxNADM8mUhsW0Loi95Z3sWwUJg66406C+a3Z+WDCwTRLYHxWCio1",
+    "version": "2.0.3.5",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.5/duoday-bundle-2.0.3.5.zip",
+    "sha256": "9be045be354ec03edadbc97d1d09e41c6123917921cf15a7aecd5d1d3c977d2b",
+    "signature": "KQATtGuVeiZUEcmrdx937ug1+Sk/1/+lWcLRf57Dj/JLkKZB8CXdB80vkyf6Fa/WOFPHUIndW6K5FxyDs52xK4TcJnYT+p5A1Ugjie4a0hnL9/XURKa0TKLxELNbfDhChex4Ug7khqevIVh+q1JfxH2qtcSTD37fQ6YMhghhWpLgEi4gN1lKOHMULwJJsuKkqIArBj8i5KmSI4QZuVR3Bo6x2j9cCWOXV8VSjx3a9Os/BUaHoXWXZy/WBsny6zUaTWZcEJs+9Y059Q5AVYF33TSlgWJFqkoF/xxFdcCaq3VpDMLysTwmp4+Vj+lMMxszgA1V7G1gq8lrHLmyBjD8aWSzKpN2JRlbi0QIGbGbQEn6ZEUfBspUkI613uycixv4UMqicNqkFn4zftQLIkpUjegmK6GrGQn84t2lJJmEG8zv4fDZC+E6/rgRqVMfh9bQxlGWLvhwVTNUkl4Kesn85SMde6OvOgwgGNz/LtjJGDkqodXSH6Bx3SGY4cCd2Nlf",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Meals: plan the week, who cooks, send ingredients to Groceries\n- Family mode: kids, their activities and pickup reminders (turn on in Sharing and privacy)\n- Tidier, consistent colours across the app\n- Tablet and desktop: two-column Today and roomier layouts",
-    "publishedAt": "2026-09-30"
+    "notes": "- New: a 1-minute welcome tour (replay it any time from Help)\n- Every + option opens the same simple way, with one Save button\n- Smoother lists and a cleaner bottom bar\n- Meals: swipe between weeks; Life shows tonight's dinner\n- Wide layouts for tablets and desktop\n- Fixed a habit icon that showed as text",
+    "publishedAt": "2026-10-01"
   }
 }
