@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.4.1",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.1/duoday-bundle-2.0.4.1.zip",
-    "sha256": "588784b8725ba1470d41b03aaef9a18e28fa136ad4199c2f47865ea8ff92e09d",
-    "signature": "eAt2yMK4j7wmjXrEu55lS8NCbTynNaYQEwQN2ef7evSZuYUduNyWUz4wBS2dAGkIDU2RUzlteplL3sJJ7Z9uiO7J3WgEZIg+ObIZDqmUEFtIJiLRiiW+UdQ072zlaQG0Y8OLsXG2DTb/brQgvcYg6+02aoafaRupiQtAi05M6cvlqQ9WAfOZ7Fhve2aqdpQyKteFZC7DW3fIujUVmRpDO3xA/oBRhg9hg5mAtdRno+6QwfQEIwr1VeLKy0kggGF9qQI6uDxIF1QCiUdIeLJN8JdYBJocwU4tA3f3YxVjLXRVaX1vqDnVQYxVcabGlTjxIdp9+ZLZoUbA3XYinvvzmxU05EWXSJECDVSnCOioBg+Eg9vOoItzmxuUkjmz315ojWCleITgzamqRM/F5Y4uNuQEKWGP2eK6qVIqc0kN+tnd/vWBfzMlzxSGEK0B+64NdB4FEXAN3Fw2Y1WbXdpLJPCT+K3hnwCdwVuH7PH5+qemAZMnkXm7uqwv/qn8Y7r5",
+    "version": "2.0.4.2",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.2/duoday-bundle-2.0.4.2.zip",
+    "sha256": "217bdb7a53136c2a7d917f340f969a4b9f150fe7c6abe09ab669ad8b8b0a3392",
+    "signature": "eteEHEYPS1lazWp6Sw6YWmXj4tyQYGEnuipNaN0oR9OVeMgCmDnItM3ZBXa4UvQwWLYJCZBK4Fuo4agZ1Z95EfkSFrD+q5pnEQaAXKFA9VUSLb6wnva6YC4s31/su2CpzCaQJJayjwapdpRer7U0x1XGlx6Gk5TQo2vT184Wei9fSb7PaQPgP0YccEmwvtO9gF98dXMgnx6hnPO4ft7aRRWK6Jy7Z7TstXldnNDkO70kuRWes8VFsRypq7EQ3Vt2AGuia3Cnf3r5A971Zosgei8SopD/B8lPiyganPVF3OiEDpbOPyrSzgYfMKIn9bk3dZSgATe0sUnVOdXRl1XUI3i+X06zXlZgW7X5MJDtKCxpj0PfxKS/BEpSQdUvRKxgSyrEuGvRKGslYrhe2tk5tPdZaHf0hLY5wwgPOcU0xlHm+xwfLY/ECyJOc7cBNiSabu1Qe195U5Gpwbit+ooGbnxnkEQRTEX7wiKFmfu7VvYMME5xqAve6MRygn/GoKov",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Money: add your salary and savings to see what you've spent, saved and have left each month\n- Medicines: skip a dose and get a refill reminder\n- Alerts: Mark all read and Delete all, and switches that hide what you turn off\n- Shared goals are clearer and stay in sync on both phones\n- Hundreds of fixes across every screen after testing each feature as a couple",
+    "notes": "- Either of you can now rename lists and edit shared bills\n- Your week is the same on both phones: it runs on your time zone\n- Family is always on the Life tab, ready to turn on",
     "publishedAt": "2026-10-07"
   }
 }
