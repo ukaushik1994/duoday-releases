@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.4.4",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.4/duoday-bundle-2.0.4.4.zip",
-    "sha256": "875ec446dd7decd0b203a96fb50507842dfd157a2198258d95d145cb0147556a",
-    "signature": "EPmGj4YaGsqjRKTH+Ohg+yl4dlpA19msZC8fheTTKbUbEffjkIDBBxKaCPuy2biJ9uIpHBOk+XGRB2O+JxGOhxXv1LUmt71P6hDlEOdUcRdxM8Tz/BfO0JKzLeYflLtgAmS5jrwur1hccXun41kwcGlGutwJBa0JDcbJc071batl4og7UoA1EnDg+DJEobVYCfPBMStF4W/aH5VOv6i3C+HkUNf+QmjghRfuyonUzXqDdfg0WN/3LJIG5/qnFSQT+q5KRLz6P6RBXuZcyKND108o81CwG6XNMq10YFGFhaMxw5OSZ6k/PIaXhtAGhRiFhBbw20BdaximGvSxAo++5TVHq43NjCJB3tOH38KGJn92a78q3rlB6MvKfTZxZRUJP7wm/PQ/gIHcJYQ475JZWyodYfMqTBheVd4AHQ94bU5Q7EmwERrt7vqO5WMVchM3/fF6VeSyvRCd/SlSKNCVCaGA81GfqrQ+Ax0ltQCcR+cnFMciPt4+FZokMLL6PuYt",
+    "version": "2.0.4.6",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.6/duoday-bundle-2.0.4.6.zip",
+    "sha256": "8bd0496e9c85ac34649777a1fd80020013c17dbb1543665537772b6a8c1b2d67",
+    "signature": "ByQr3ULIRfgd8gwa2BBMAFnsCHHzHN4rL6cJD1xqdgVDi38AH6q6YLGNJkcAMtLFtxWEQzjZzYCMAWVxUfaxhGRTyMvdKwmJFd/NBHimiBszu48TxdRwmNd08OZ5kUZ3KSKGdqq7sbx3geAFgspCp2BrqdI8E/+MMuScw3Q5hbU5HSFgMSp5l5TqTP9Z484kUe98g7fvrgWSFjaZup+Kys7Hl05NfuETgvFs+mng0o2TrJruW96E9qEVyy7mzjqxf6fEeAIQg/wB+VQKd4faqZvhu/OBsA70eX3Di0NqUqnbZcmfOqKMbiA3BDYtairzzAU6vdyj97vd71mb9XyZDL9RaHAjeoYS4x6RSg0aL6HqcGG+DkIglrFSdvUHvsz/lW2HGfe93JjjsCwDzNGUHa5AjPjtcbaO9tk/dETmNdqd6zSwAdGvdVmjsIxr84g7OBBnkUsDLYoJicDlO9vwS/w43lB1WWUuiEVDP46HcyG7CifZIMI36U2fmhsRX3K9",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Hold the + to add an expense straight away\n- Money: payday-month budgets, carry-over, settle-ups by either of you, Bill in the + menu\n- Chat and alerts: sending offline, one simple way to silence alerts, notifications open the exact item\n- Half tablets, habits you can top up, clearer Today\n- Family hints, offline adds for events, chores and meals",
+    "notes": "- Chores, Lists, Health, Habits and Us rebuilt with history, insights and much more\n- Calendar rebuilt: Month, Agenda, Week, Insights, event details, reminders inbox, gift ideas\n- Chores: fair split by effort, pause while away; Lists: staples and shopping mode\n- Health: care and insights; Habits: fill in past days, cheers; Us: waiting for you, date ratings",
     "publishedAt": "2026-10-08"
   }
 }
