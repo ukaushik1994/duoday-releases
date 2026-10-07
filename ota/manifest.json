@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.4.6",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.6/duoday-bundle-2.0.4.6.zip",
-    "sha256": "8bd0496e9c85ac34649777a1fd80020013c17dbb1543665537772b6a8c1b2d67",
-    "signature": "ByQr3ULIRfgd8gwa2BBMAFnsCHHzHN4rL6cJD1xqdgVDi38AH6q6YLGNJkcAMtLFtxWEQzjZzYCMAWVxUfaxhGRTyMvdKwmJFd/NBHimiBszu48TxdRwmNd08OZ5kUZ3KSKGdqq7sbx3geAFgspCp2BrqdI8E/+MMuScw3Q5hbU5HSFgMSp5l5TqTP9Z484kUe98g7fvrgWSFjaZup+Kys7Hl05NfuETgvFs+mng0o2TrJruW96E9qEVyy7mzjqxf6fEeAIQg/wB+VQKd4faqZvhu/OBsA70eX3Di0NqUqnbZcmfOqKMbiA3BDYtairzzAU6vdyj97vd71mb9XyZDL9RaHAjeoYS4x6RSg0aL6HqcGG+DkIglrFSdvUHvsz/lW2HGfe93JjjsCwDzNGUHa5AjPjtcbaO9tk/dETmNdqd6zSwAdGvdVmjsIxr84g7OBBnkUsDLYoJicDlO9vwS/w43lB1WWUuiEVDP46HcyG7CifZIMI36U2fmhsRX3K9",
+    "version": "2.0.4.7",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.7/duoday-bundle-2.0.4.7.zip",
+    "sha256": "e83f7c45ec10c87209008114bd666370a85fe82b59b8e53ce31dd603f446a4fa",
+    "signature": "LYkC94BJJS0Wcsv4+sTxWjfN9GXVTE2tSj3XgzmIRF4oJ/S9ApIau5523ocmCSrk7NvA5cLOWhM8nqV4APaZU9b/28dNLwIl9A+tJ43yC8C0FyTQ/ZIKBalieeBdZfKB+wHUjJLHFzzbxMvqqSBaszOH2NaF0ZuJUjnhUoxRrYjzq5NGxcLEZGo++FoNHSl6qhhMRXgSrX9eefS3+MxP/g4ffkg/r/jmhSgnawDp9bB8eihvyoMo2xf7uXXRfcm7uBiwZpXNCAteBnvGifIZI4HB2CL//ccCOrAdQQ2edQ+X0S8l3EHK3o7EY54U7M0XzrBEeDfrNVpgK2IkW4z4KWemcnLuRCvVRY1Gj+T97g8m/BBo4uE6WuDJj7tKsTJoOO4SowsQWpcPKjCq3MkozMmFoafBnL6xZnnxNzs+yRPNjdJ8ieazmHwX4M629Ucpvgnk5zQgr/xjDyqA+kDHZmsLUj+z/vMK7bBWFfWHlI8lxTdV9qxk4liVqJspTDAS",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Chores, Lists, Health, Habits and Us rebuilt with history, insights and much more\n- Calendar rebuilt: Month, Agenda, Week, Insights, event details, reminders inbox, gift ideas\n- Chores: fair split by effort, pause while away; Lists: staples and shopping mode\n- Health: care and insights; Habits: fill in past days, cheers; Us: waiting for you, date ratings",
+    "notes": "- Meals rebuilt: recipes, cook mode, repeat last week, history and insights\n- Family rebuilt: kids' profiles, school calendar, vaccines, duty swaps, pack the bag\n- Chat: pins, kept messages, shared photos and links, chat insights\n- Today: customise your cards; Insights: your life this week and month\n- Calendar, Chores, Lists, Health, Habits and Us got deeper too",
     "publishedAt": "2026-10-08"
   }
 }
