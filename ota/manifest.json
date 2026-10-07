@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.3.7",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.3.7/duoday-bundle-2.0.3.7.zip",
-    "sha256": "24198315cdd34717c2afe546ac5f671276f435f4650ba4e4ae0ece8db261cff1",
-    "signature": "yauzkfivGXRbmDCUpy55td0jeYfftQDhWhOo4Oke+30lMIKUBnmqfLzMUOVQLyp288XVLXZkF+r66m4uG6UelS2Qwr+/zVk7cBezpVtJ+hwhdcesZn/dJuOqsiTqjGAvvp7lFuU5nc6RViOKXOwLg+btdBzeoXtyqCIg0GOMVbCRj6ryhc4lCT40z0Vo/kN8XXmYslGnW53RRcvCCRWHL/5Mrf6TNshiWf+QKsQs/HMrbq+ChEgffHACdBx+5iCr2BKB2OXTBCOiH7waXt43wAcwMGvTfUZ+LOYcyMWo1jasJtcVXZpR9++TNsTX1aeduzFRE4xREUu6zttxlPRqegBDb0kBtOawdfL6PjUPFO32W1oWXs6mQWsDOisLU5leBaxuaSHWdgL4LGEWe4+ox5+TMNgmIujUhKAr5yC3yeW9sNowwS4/hPk4mMPu5gMs8KIonTyyT5wE75ETBK9BGezcNa3OELMGAgJ2XkblF2aPU6q7IgcXLjML1BEANR/S",
+    "version": "2.0.4.1",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.1/duoday-bundle-2.0.4.1.zip",
+    "sha256": "588784b8725ba1470d41b03aaef9a18e28fa136ad4199c2f47865ea8ff92e09d",
+    "signature": "eAt2yMK4j7wmjXrEu55lS8NCbTynNaYQEwQN2ef7evSZuYUduNyWUz4wBS2dAGkIDU2RUzlteplL3sJJ7Z9uiO7J3WgEZIg+ObIZDqmUEFtIJiLRiiW+UdQ072zlaQG0Y8OLsXG2DTb/brQgvcYg6+02aoafaRupiQtAi05M6cvlqQ9WAfOZ7Fhve2aqdpQyKteFZC7DW3fIujUVmRpDO3xA/oBRhg9hg5mAtdRno+6QwfQEIwr1VeLKy0kggGF9qQI6uDxIF1QCiUdIeLJN8JdYBJocwU4tA3f3YxVjLXRVaX1vqDnVQYxVcabGlTjxIdp9+ZLZoUbA3XYinvvzmxU05EWXSJECDVSnCOioBg+Eg9vOoItzmxuUkjmz315ojWCleITgzamqRM/F5Y4uNuQEKWGP2eK6qVIqc0kN+tnd/vWBfzMlzxSGEK0B+64NdB4FEXAN3Fw2Y1WbXdpLJPCT+K3hnwCdwVuH7PH5+qemAZMnkXm7uqwv/qn8Y7r5",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- We're now called Duoday App\n- Help points to the right menus",
-    "publishedAt": "2026-10-01"
+    "notes": "- Money: add your salary and savings to see what you've spent, saved and have left each month\n- Medicines: skip a dose and get a refill reminder\n- Alerts: Mark all read and Delete all, and switches that hide what you turn off\n- Shared goals are clearer and stay in sync on both phones\n- Hundreds of fixes across every screen after testing each feature as a couple",
+    "publishedAt": "2026-10-07"
   }
 }
