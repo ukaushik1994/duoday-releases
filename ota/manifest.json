@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.4.2",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.2/duoday-bundle-2.0.4.2.zip",
-    "sha256": "217bdb7a53136c2a7d917f340f969a4b9f150fe7c6abe09ab669ad8b8b0a3392",
-    "signature": "eteEHEYPS1lazWp6Sw6YWmXj4tyQYGEnuipNaN0oR9OVeMgCmDnItM3ZBXa4UvQwWLYJCZBK4Fuo4agZ1Z95EfkSFrD+q5pnEQaAXKFA9VUSLb6wnva6YC4s31/su2CpzCaQJJayjwapdpRer7U0x1XGlx6Gk5TQo2vT184Wei9fSb7PaQPgP0YccEmwvtO9gF98dXMgnx6hnPO4ft7aRRWK6Jy7Z7TstXldnNDkO70kuRWes8VFsRypq7EQ3Vt2AGuia3Cnf3r5A971Zosgei8SopD/B8lPiyganPVF3OiEDpbOPyrSzgYfMKIn9bk3dZSgATe0sUnVOdXRl1XUI3i+X06zXlZgW7X5MJDtKCxpj0PfxKS/BEpSQdUvRKxgSyrEuGvRKGslYrhe2tk5tPdZaHf0hLY5wwgPOcU0xlHm+xwfLY/ECyJOc7cBNiSabu1Qe195U5Gpwbit+ooGbnxnkEQRTEX7wiKFmfu7VvYMME5xqAve6MRygn/GoKov",
+    "version": "2.0.4.3",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.3/duoday-bundle-2.0.4.3.zip",
+    "sha256": "651fecf1fdc54ec6012e6379c3bc83306f7a3ab21b5197dd18a16d5d739f06ad",
+    "signature": "txGf2lxkws7nTXWQDcywGh+/Co4fca1v7HEgIbHrBWxomjDeVTyt7mjvXyXJOOOtLw54tWLNn+puyyv+nd+ha4o7Qi3F8GfstFvoLiGqL06wU1hetGbh612HBEZJJG3xAZ5rGxkB7sD9R/Sx6OOGPXoSldXQ3dxq2k7AKEpbIkDcxIroXY+xsSIF3d4cptTrd/n1nCuJDVlZ1q+l2qJoC3nejbVdteFAYBPkKls9rAgGfhhwfyAqKxuIISqPsm6Bi4G86CP4V2/JGXClrB9cwhTwb7qUa5YcFUgjj76Zs2IBrpreQd2h3lTyW8UHcb3WOSshAEjeTLlZHZTl2V6R/xWFBQwmu9acMp6/4uXb2D2yvaA9w2T9Y5bEm5ipPZwS0Q8BVQB9G80P0Ia8n839mQM6K13c1RiCa8gBtgdU3DIc9bWwW+PilzsWCuTWezHiMH0hGsCKugkBeef4AeQpSa24XT4krchxBDpBLSSfW23bYn37EYlApbfC6PTNUCll",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Either of you can now rename lists and edit shared bills\n- Your week is the same on both phones: it runs on your time zone\n- Family is always on the Life tab, ready to turn on",
+    "notes": "- Money, rebuilt: Overview, Activity, Plan and Insights\n- See every expense in Activity, with search, filters and a calendar\n- Faster add: keypad first, Mine or Ours, UPI, Cash, Card or Bank\n- Plan budgets, bills, EMIs, SIPs, goals and festival budgets\n- Insights and a monthly money date for the two of you",
     "publishedAt": "2026-10-07"
   }
 }
