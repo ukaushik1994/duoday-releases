@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.4.3",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.3/duoday-bundle-2.0.4.3.zip",
-    "sha256": "651fecf1fdc54ec6012e6379c3bc83306f7a3ab21b5197dd18a16d5d739f06ad",
-    "signature": "txGf2lxkws7nTXWQDcywGh+/Co4fca1v7HEgIbHrBWxomjDeVTyt7mjvXyXJOOOtLw54tWLNn+puyyv+nd+ha4o7Qi3F8GfstFvoLiGqL06wU1hetGbh612HBEZJJG3xAZ5rGxkB7sD9R/Sx6OOGPXoSldXQ3dxq2k7AKEpbIkDcxIroXY+xsSIF3d4cptTrd/n1nCuJDVlZ1q+l2qJoC3nejbVdteFAYBPkKls9rAgGfhhwfyAqKxuIISqPsm6Bi4G86CP4V2/JGXClrB9cwhTwb7qUa5YcFUgjj76Zs2IBrpreQd2h3lTyW8UHcb3WOSshAEjeTLlZHZTl2V6R/xWFBQwmu9acMp6/4uXb2D2yvaA9w2T9Y5bEm5ipPZwS0Q8BVQB9G80P0Ia8n839mQM6K13c1RiCa8gBtgdU3DIc9bWwW+PilzsWCuTWezHiMH0hGsCKugkBeef4AeQpSa24XT4krchxBDpBLSSfW23bYn37EYlApbfC6PTNUCll",
+    "version": "2.0.4.4",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.4/duoday-bundle-2.0.4.4.zip",
+    "sha256": "875ec446dd7decd0b203a96fb50507842dfd157a2198258d95d145cb0147556a",
+    "signature": "EPmGj4YaGsqjRKTH+Ohg+yl4dlpA19msZC8fheTTKbUbEffjkIDBBxKaCPuy2biJ9uIpHBOk+XGRB2O+JxGOhxXv1LUmt71P6hDlEOdUcRdxM8Tz/BfO0JKzLeYflLtgAmS5jrwur1hccXun41kwcGlGutwJBa0JDcbJc071batl4og7UoA1EnDg+DJEobVYCfPBMStF4W/aH5VOv6i3C+HkUNf+QmjghRfuyonUzXqDdfg0WN/3LJIG5/qnFSQT+q5KRLz6P6RBXuZcyKND108o81CwG6XNMq10YFGFhaMxw5OSZ6k/PIaXhtAGhRiFhBbw20BdaximGvSxAo++5TVHq43NjCJB3tOH38KGJn92a78q3rlB6MvKfTZxZRUJP7wm/PQ/gIHcJYQ475JZWyodYfMqTBheVd4AHQ94bU5Q7EmwERrt7vqO5WMVchM3/fF6VeSyvRCd/SlSKNCVCaGA81GfqrQ+Ax0ltQCcR+cnFMciPt4+FZokMLL6PuYt",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Money, rebuilt: Overview, Activity, Plan and Insights\n- See every expense in Activity, with search, filters and a calendar\n- Faster add: keypad first, Mine or Ours, UPI, Cash, Card or Bank\n- Plan budgets, bills, EMIs, SIPs, goals and festival budgets\n- Insights and a monthly money date for the two of you",
-    "publishedAt": "2026-10-07"
+    "notes": "- Hold the + to add an expense straight away\n- Money: payday-month budgets, carry-over, settle-ups by either of you, Bill in the + menu\n- Chat and alerts: sending offline, one simple way to silence alerts, notifications open the exact item\n- Half tablets, habits you can top up, clearer Today\n- Family hints, offline adds for events, chores and meals",
+    "publishedAt": "2026-10-08"
   }
 }
