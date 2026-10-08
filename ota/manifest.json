@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "latest": {
-    "version": "2.0.4.7",
-    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.7/duoday-bundle-2.0.4.7.zip",
-    "sha256": "e83f7c45ec10c87209008114bd666370a85fe82b59b8e53ce31dd603f446a4fa",
-    "signature": "LYkC94BJJS0Wcsv4+sTxWjfN9GXVTE2tSj3XgzmIRF4oJ/S9ApIau5523ocmCSrk7NvA5cLOWhM8nqV4APaZU9b/28dNLwIl9A+tJ43yC8C0FyTQ/ZIKBalieeBdZfKB+wHUjJLHFzzbxMvqqSBaszOH2NaF0ZuJUjnhUoxRrYjzq5NGxcLEZGo++FoNHSl6qhhMRXgSrX9eefS3+MxP/g4ffkg/r/jmhSgnawDp9bB8eihvyoMo2xf7uXXRfcm7uBiwZpXNCAteBnvGifIZI4HB2CL//ccCOrAdQQ2edQ+X0S8l3EHK3o7EY54U7M0XzrBEeDfrNVpgK2IkW4z4KWemcnLuRCvVRY1Gj+T97g8m/BBo4uE6WuDJj7tKsTJoOO4SowsQWpcPKjCq3MkozMmFoafBnL6xZnnxNzs+yRPNjdJ8ieazmHwX4M629Ucpvgnk5zQgr/xjDyqA+kDHZmsLUj+z/vMK7bBWFfWHlI8lxTdV9qxk4liVqJspTDAS",
+    "version": "2.0.4.8",
+    "url": "https://github.com/ukaushik1994/duoday-releases/releases/download/bundle-2.0.4.8/duoday-bundle-2.0.4.8.zip",
+    "sha256": "75f43bcf0a91956b71f217f1625398eac54f1460e29809e9a745e2f16f191276",
+    "signature": "0hu5JgNmpbByYEUmJi3Oq5M/RZobdvuyZtW+HeroggB07boeFblWEIHwkXJh4BUvzpUzsWsqIOffz3RpebxxxQIST02NVmo85noXPfbeVF5GK1763W2UqIrY2Klf20e5Pxmlr7Z6J9zZq33sUXZ6NTguxKIokMnW8I417jIdc4m26dKbl9bz8+uJjpbj1yUQOxA4RTyicX3qI/Sq7h6x18pnmmQVflo1kiotFthu1Ym6F1de0y5MXRLoBTXURccwDGv82f0G1Lll3QEz2m4JqAr7C/lC+Pjx0bNpcI0xAwmHzdlV2lF9u3f+P6luI7l5WLLNzlfK2q3qj3XzaxFflgXNFMriSGe5u/CzEAc0VgAfbuPzq22jBCz3tv1Gcd3NTcl4mzCCRmf8gdqSuqW2u+0I7MIOHfR9IZ3E5kwPglQVDp6HNp0nCSE9tITfFmb3yRV/BE9e5E4o/7uahuq11J7MA+/ftJGAZPqoavJ/1f3TePKZ4YTjv0IuebBRaZU+",
     "minNativeBuild": {
       "android": 11,
       "ios": 11
     },
-    "notes": "- Meals rebuilt: recipes, cook mode, repeat last week, history and insights\n- Family rebuilt: kids' profiles, school calendar, vaccines, duty swaps, pack the bag\n- Chat: pins, kept messages, shared photos and links, chat insights\n- Today: customise your cards; Insights: your life this week and month\n- Calendar, Chores, Lists, Health, Habits and Us got deeper too",
+    "notes": "- Plus menu adds Recipe, Staple, Bucket list and Gift idea\n- Section headers now match everywhere\n- Family settings shows the right on/off state\n- Chat details counts messages correctly",
     "publishedAt": "2026-10-08"
   }
 }
